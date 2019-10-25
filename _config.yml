@@ -109,7 +109,8 @@ author:
   name: "Dorim Kim"
   avatar: "./bio-photo.jpeg"
   bio: "JUST DO IT!!"
-  location: "Seoul", "Daegu"
+  location: "Seoul"
+  location: "Daegu"
   email: 
   links:
     - label: "Email"
