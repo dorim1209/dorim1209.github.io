@@ -1,7 +1,7 @@
 ---
-title: "TIL_191024(about Sync Async)"
+title: "TIL(about Array)"
 date: 2019-10-24 11:06:00 -0400
-categories: Sync Async
+categories: Array
 ---
 
 const obj = {
