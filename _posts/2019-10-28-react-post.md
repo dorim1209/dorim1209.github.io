@@ -4,18 +4,18 @@ date: 2019-10-28 14:10:00 -0400
 categories: React
 ---
 
-####imr+tab
+#### imr+tab
 
 `import React from "react"; `
 
 <hr/>
 
-####imrd+tab
+#### imrd+tab
 
 `import ReactDOM from "react-dom"; `
 
 <hr/>
-####rafc+tab
+#### rafc+tab
 
 ```
 import React from 'react'
@@ -30,7 +30,7 @@ export default CommentDetail
 
 <hr/>
 
-####rfc+tab
+#### rfc+tab
 
 import React from 'react'
 
