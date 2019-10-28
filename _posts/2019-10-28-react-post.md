@@ -32,9 +32,8 @@ export default CommentDetail
 
 #### rfc+tab
 
-import React from 'react'
-
 ```
+import React from 'react'
 export default function CommentDetail() {
   return (
         <div>
