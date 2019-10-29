@@ -6,13 +6,13 @@ categories: React
 
 #### imr+tab
 
-`import React from "react"; `
+`import React from "react";`
 
 <hr/>
 
 #### imrd+tab
 
-`import ReactDOM from "react-dom"; `
+`import ReactDOM from "react-dom";`
 
 <hr/>
 #### rafc+tab
@@ -39,5 +39,21 @@ export default function CommentDetail() {
         <div>
         </div>
   )
+}
+```
+
+<hr/>
+
+#### rcc+tab (class기반)
+
+```
+import React, { Component } from 'react'
+export default class App extends Component {
+    render() {
+        return (
+            <div>
+            </div>
+        )
+    }
 }
 ```
